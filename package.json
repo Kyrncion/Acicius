@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/Kyrncion/Acicius/issues"
   },
-  "homepage": "https://github.com/Kyrncion/Acicius#readme"
+  "homepage": "https://github.com/Kyrncion/Acicius#readme",
+  "dependencies": {
+    "discord.js": "^13.3.1"
+  }
 }
