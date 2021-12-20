@@ -1,7 +1,7 @@
 {
   "name": "acicius",
   "version": "1.0.0",
-  "description": "A discord bot reference sheet for website developers.",
+  "description": "A discord client reference sheet for website developers.",
   "main": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -12,7 +12,7 @@
   },
   "keywords": [
     "JavaScript",
-    "DiscordBot"
+    "Discordclient"
   ],
   "author": "Kyrncion",
   "license": "ISC",
@@ -21,6 +21,7 @@
   },
   "homepage": "https://github.com/Kyrncion/Acicius#readme",
   "dependencies": {
-    "discord.js": "^13.3.1"
+    "discord.js": "^13.3.1",
+    "dotenv": "^10.0.0"
   }
 }

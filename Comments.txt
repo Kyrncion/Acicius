@@ -1,0 +1,3 @@
+Embed Color = #5599ff
+Logo = AciciusLogo.png
+client Invite Link = https://discord.com/oauth2/authorize?client_id=829831240047263744&scope=client&permissions=536603520209
